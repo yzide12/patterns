@@ -214,7 +214,7 @@ class MarksManager
     }
 }
 
-**🎮 1. Command Pattern**
+**🎮 4. Command Pattern**
 🔧 What is it?
 The Command Pattern turns a request (like “save”, “open”, “undo”) into a standalone object, so you can pass it around, store it, or undo it later.
 
